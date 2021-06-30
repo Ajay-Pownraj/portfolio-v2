@@ -335,7 +335,7 @@ const experience = {
           color: "#0071C5",
         },
         {
-          title: "Intership",
+          title: "Internship",
           company: "Logic Research Labs",
           company_url: "https://logicresearchlabs.com/",
           logo_path: "lrl-logo.png",
