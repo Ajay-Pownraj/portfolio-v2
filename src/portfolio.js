@@ -365,7 +365,7 @@ const experience = {
           title: "National Service Scheme (NSS)",
           company: "Public Service Program",
           company_url: "https://nss.gov.in/",
-          logo_path: "nss-logo.jpg",
+          logo_path: "nss-logo.jpeg",
           duration: "Feb 2016",
           location: "Kongu Engineering College",
           description: "Indian government-sponsored flagship for public service program conducted by the Ministry of Youth Affairs and Sports of the Government of India",
