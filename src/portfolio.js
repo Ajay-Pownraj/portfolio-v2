@@ -277,7 +277,7 @@ const degrees = {
       alt_name: "KEC LOGO",
       duration: "2015 - 2019",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, Python,  etc.",
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
         "⚡ Secretary in Computer Socitey of India-2019, Conducted and Organised various work shop and Event. "
