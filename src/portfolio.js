@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "UI / Front End Developer, I build things for the web 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1QMFrEnGJ5L45n1eycwhdlRfx6nA5Tmma/view?usp=sharing",
+    "https://drive.google.com/file/d/1rGliNos0PuM4Axi9lCT66feIy8B424nk/view?usp=sharing",
   mail: "mailto:ajaypownraj@gmail.com",
 };
 
