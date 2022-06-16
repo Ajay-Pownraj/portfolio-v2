@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "UI / Front End Developer, I build things for the web 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1rGliNos0PuM4Axi9lCT66feIy8B424nk/view?usp=sharing",
+    "https://drive.google.com/file/d/1PWAWoAWmm5qWWHF4Nsv_S61f8i_BMJ9Q/view?usp=sharing",
   mail: "mailto:ajaypownraj@gmail.com",
 };
 
@@ -289,7 +289,7 @@ const degrees = {
 
 const certifications = {
   certifications: [
-   
+
     {
       title: "Sample Certificate",
       subtitle: "Sample Certificate",
