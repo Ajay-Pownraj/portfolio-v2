@@ -324,11 +324,22 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Software Engineer - UI",
+          company: "Enterprise Bot",
+          company_url: "https://www.enterprisebot.ai/",
+          logo_path: "eb-bot-logo.png",
+          duration: "Nov 2021 - Present",
+          location: "Bangalore, India.",
+          description:
+            "Working on Email Response Automation (ERA)",
+          color: "#0071C5",
+        },
+        {
           title: "UI / Font-End Developer",
           company: "Accenture",
           company_url: "https://www.accenture.com/in-en",
           logo_path: "accenture-logo.jpg",
-          duration: "May 2019 - Present",
+          duration: "May 2019 - Nov 2021",
           location: "Bangalore, India.",
           description:
             "Developed and maintained code for client websites primarily, Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness, Implementing a mobile first approach to existing website, Expert at designing and developing cross browser compatible website, Involved in prototyping and in giving solutions to complex technical problems.",

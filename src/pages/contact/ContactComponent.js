@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
@@ -50,7 +51,7 @@ function Contact(props) {
               <SocialMedia />
               <br />
               <br />
-              <a {...styles} className="general-btn" href={greeting.resumeLink}>
+              <a target="_blank" {...styles} className="general-btn" href={greeting.resumeLink}>
                 See my Resume
               </a>
             </div>
